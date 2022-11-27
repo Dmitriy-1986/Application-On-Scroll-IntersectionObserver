@@ -49,7 +49,7 @@
 
 .main .article .section {
     background-color: #e2e2e2;
-    transition: transform 1s, opacity 1s;
+    transition: transform 500ms, opacity 500ms;
 }
 
 /* Section Hidden */
